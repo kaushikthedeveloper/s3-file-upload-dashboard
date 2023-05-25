@@ -1,0 +1,12 @@
+{
+  "name": "s3-file-upload-dashboard",
+  "version": "1.0.0",
+  "description": "Uploading files to S3 bucket via dashboard",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "python3 -m http.server"
+  },
+  "author": "kaushik",
+  "license": "ISC"
+}
